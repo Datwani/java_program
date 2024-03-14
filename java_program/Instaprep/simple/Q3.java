@@ -4,8 +4,7 @@ public class Q3 {
         for (int i=0;i<=num;i++)
         {
             sum=sum+i;
-            System.out.println(sum);
         }
-
+        System.out.println(sum);
     }
 }
